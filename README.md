@@ -8,4 +8,8 @@
         <li>node app.js</li>
         <li>Go to localhost:3000 in Browser</li>
     </ol>
-<img src="ScreenShots/1.png" alt="Photo-1" width="5rem">
+<img src="ScreenShots/1.png" alt="Photo-1" width="50%">
+<img src="ScreenShots/2.png" alt="Photo-1" width="50%">
+<img src="ScreenShots/3.png" alt="Photo-1" width="50%">
+<img src="ScreenShots/4.png" alt="Photo-1" width="50%">
+<img src="ScreenShots/5.png" alt="Photo-1" width="50%">
