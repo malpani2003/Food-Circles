@@ -1,0 +1,16 @@
+.box{
+    background-color: brown;
+    color: white;
+    padding:10px;
+    border-radius: 10px;
+}
+.box a{
+    color:white;
+    text-decoration: none;
+    text-align: center;
+    
+}
+/*
+.box h2{
+    text-decoration: underline;
+} */

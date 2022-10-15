@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Moti Mahal",
+        "address": "Delhi",
+        "cuisine": "Indian",
+        "website": "www.motimahal.com",
+        "description": "Best restaurant in delhi and has many outlet in india"
+    },
+    {
+        "name": "Virus Restaurant and Bistro",
+        "address": "Nainital",
+        "cuisine": "Indian",
+        "website": "https://www.virusbistro.com/",
+        "description": "Best Paneer Tikka ever"
+    },
+    {
+        "name": "Yellow House",
+        "address": "MI Road, Jaipur",
+        "cuisine": "Indian",
+        "website": "www.google.com",
+        "description": "Ruby badhiya hai"
+    },
+    {
+        "name": "gue",
+        "address": "dhdsdjb",
+        "cuisine": "efhj",
+        "website": "hfjfehjs",
+        "description": "fjfhjdfg",
+        "photo": "aap_logo.jpg"
+    }
+]
